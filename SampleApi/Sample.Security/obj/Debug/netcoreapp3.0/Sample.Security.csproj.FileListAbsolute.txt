@@ -1,0 +1,15 @@
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Security.deps.json
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Security.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Security.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Api.Common.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Api.Models.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Data.Models.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Api.Models.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Data.Models.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\bin\Debug\netcoreapp3.0\Sample.Api.Common.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\obj\Debug\netcoreapp3.0\Sample.Security.csprojAssemblyReference.cache
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\obj\Debug\netcoreapp3.0\Sample.Security.AssemblyInfoInputs.cache
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\obj\Debug\netcoreapp3.0\Sample.Security.AssemblyInfo.cs
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\obj\Debug\netcoreapp3.0\Sample.Security.csproj.CopyComplete
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\obj\Debug\netcoreapp3.0\Sample.Security.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Security\obj\Debug\netcoreapp3.0\Sample.Security.pdb

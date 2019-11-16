@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sample.Api.Common\Sample.Api.Common.csproj" />
+    <ProjectReference Include="..\Sample.Api.Models\Sample.Api.Models.csproj" />
+    <ProjectReference Include="..\Sample.Data.Access\Sample.Data.Access.csproj" />
+    <ProjectReference Include="..\Sample.Data.Models\Sample.Data.Models.csproj" />
+    <ProjectReference Include="..\Sample.Security\Sample.Security.csproj" />
+  </ItemGroup>
+
+</Project>

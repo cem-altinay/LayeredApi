@@ -1,0 +1,13 @@
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\bin\Debug\netcoreapp3.0\Sample.Data.Models.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\obj\Debug\netcoreapp3.0\Sample.Data.Access.csprojAssemblyReference.cache
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\obj\Debug\netcoreapp3.0\Sample.Data.Access.AssemblyInfoInputs.cache
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\obj\Debug\netcoreapp3.0\Sample.Data.Access.AssemblyInfo.cs
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\bin\Debug\netcoreapp3.0\Sample.Data.Access.deps.json
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\bin\Debug\netcoreapp3.0\Sample.Data.Access.runtimeconfig.json
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\bin\Debug\netcoreapp3.0\Sample.Data.Access.runtimeconfig.dev.json
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\bin\Debug\netcoreapp3.0\Sample.Data.Access.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\bin\Debug\netcoreapp3.0\Sample.Data.Access.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\bin\Debug\netcoreapp3.0\Sample.Data.Models.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\obj\Debug\netcoreapp3.0\Sample.Data.Access.csproj.CopyComplete
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\obj\Debug\netcoreapp3.0\Sample.Data.Access.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Access\obj\Debug\netcoreapp3.0\Sample.Data.Access.pdb

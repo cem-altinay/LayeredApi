@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Sample.Api.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Sample.Api.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.Api.Common.dll": {}
+        }
+      },
+      "Sample.Api.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Sample.Api.Common": "1.0.0",
+          "Sample.Data.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sample.Api.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.Api.Models.dll": {}
+        }
+      },
+      "Sample.Data.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Sample.Data.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.Data.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample.Api.Common/1.0.0": {
+      "type": "project",
+      "path": "../Sample.Api.Common/Sample.Api.Common.csproj",
+      "msbuildProject": "../Sample.Api.Common/Sample.Api.Common.csproj"
+    },
+    "Sample.Api.Models/1.0.0": {
+      "type": "project",
+      "path": "../Sample.Api.Models/Sample.Api.Models.csproj",
+      "msbuildProject": "../Sample.Api.Models/Sample.Api.Models.csproj"
+    },
+    "Sample.Data.Models/1.0.0": {
+      "type": "project",
+      "path": "../Sample.Data.Models/Sample.Data.Models.csproj",
+      "msbuildProject": "../Sample.Data.Models/Sample.Data.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Sample.Api.Models >= 1.0.0",
+      "Sample.Data.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Cem\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Security\\Sample.Security.csproj",
+      "projectName": "Sample.Security",
+      "projectPath": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Security\\Sample.Security.csproj",
+      "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+      "outputPath": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Security\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj": {
+              "projectPath": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj"
+            },
+            "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj": {
+              "projectPath": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

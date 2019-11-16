@@ -1,0 +1,8 @@
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\bin\Debug\netcoreapp3.0\Sample.Data.Models.deps.json
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\bin\Debug\netcoreapp3.0\Sample.Data.Models.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\bin\Debug\netcoreapp3.0\Sample.Data.Models.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\obj\Debug\netcoreapp3.0\Sample.Data.Models.AssemblyInfoInputs.cache
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\obj\Debug\netcoreapp3.0\Sample.Data.Models.AssemblyInfo.cs
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\obj\Debug\netcoreapp3.0\Sample.Data.Models.dll
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\obj\Debug\netcoreapp3.0\Sample.Data.Models.pdb
+D:\NetCore\GitHub\LayeredApi\Sample.Api\Sample.Data.Models\obj\Debug\netcoreapp3.0\Sample.Data.Models.csprojAssemblyReference.cache

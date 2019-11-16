@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Service\\Sample.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj",
+        "projectName": "Sample.Api.Common",
+        "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj",
+        "projectName": "Sample.Api.Models",
+        "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj"
+              },
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Access\\Sample.Data.Access.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Access\\Sample.Data.Access.csproj",
+        "projectName": "Sample.Data.Access",
+        "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Access\\Sample.Data.Access.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Access\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "CryptoHelper": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj",
+        "projectName": "Sample.Data.Models",
+        "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Security\\Sample.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Security\\Sample.Security.csproj",
+        "projectName": "Sample.Security",
+        "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Security\\Sample.Security.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj"
+              },
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Service\\Sample.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Service\\Sample.Service.csproj",
+        "projectName": "Sample.Service",
+        "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Service\\Sample.Service.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj"
+              },
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Models\\Sample.Api.Models.csproj"
+              },
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Access\\Sample.Data.Access.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Access\\Sample.Data.Access.csproj"
+              },
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Data.Models\\Sample.Data.Models.csproj"
+              },
+              "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Security\\Sample.Security.csproj": {
+                "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Security\\Sample.Security.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
