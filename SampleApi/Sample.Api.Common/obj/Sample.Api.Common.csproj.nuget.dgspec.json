@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj": {}
+    "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj": {}
   },
   "projects": {
-    "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj": {
+    "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj",
+        "projectUniqueName": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj",
         "projectName": "Sample.Api.Common",
-        "projectPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj",
+        "projectPath": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Api.Common\\Sample.Api.Common.csproj",
         "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCore\\GitHub\\LayeredApi\\SampleApi\\Sample.Api.Common\\obj\\",
+        "outputPath": "D:\\NetCore\\GitHub\\TestApi\\LayeredApi\\SampleApi\\Sample.Api.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
